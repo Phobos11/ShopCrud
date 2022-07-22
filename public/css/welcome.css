@@ -1,0 +1,41 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.normal{
+    color : #1a202c;
+}
+h2{
+
+    font-size: 50px;
+}
+tr,th{
+    color:#1a202c;
+}
+.center-text{
+
+    text-align: center; }
+
+.table-nonfluid {
+    width: auto !important;
+}
+.margin-top{
+    margin-top: 10%;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.basbas{
+    margin-top: 2%;
+}
+.container-input{
+
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin-left: 43%;
+    margin-top: 5%;
+}
